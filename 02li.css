@@ -1,0 +1,29 @@
+input{
+    width:200px;
+    background-color: #4477CE;
+    color: white;
+}
+button{
+    background-color: #512B81;
+    color: white;
+}
+a{
+    color: white;
+}
+div#box{
+    background-color: #4477CE;
+    color: white;
+    border-radius: 10%;
+    width: 350px;
+}
+h1{
+    color: #EEEDED;
+    font-size: 50px;
+}
+div#innerbox{
+    padding-top: 40px;
+}
+form{
+    height: 300px;
+    border-radius: 10%;
+}

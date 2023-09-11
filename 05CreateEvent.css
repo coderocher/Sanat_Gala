@@ -1,0 +1,12 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+body{
+    height: 200px;
+}
+select{
+    height: 30px;
+}

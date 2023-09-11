@@ -1,0 +1,37 @@
+div.mycontent{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+body{
+    background-image: url(./bg1.jpg);
+}
+img{
+    padding-left: 20px;
+    height:200px;
+    width:auto;
+}
+button.learn{
+    width: 100px;
+    background-color: #4477CE;
+    color: white;
+    margin-left: 200px;
+}
+input{
+    width: 32px;
+    background-color: white;
+}
+div#cards{
+    background-color: #4477CE;
+    color: white;
+}
+a{
+    color:white;
+}
+button#Admin{
+    width:275px; height:75px; margin-left:800px;
+    background-color: #35155D;
+}
+button.member{
+    background-color: #35155D;
+    color: white;
+}
